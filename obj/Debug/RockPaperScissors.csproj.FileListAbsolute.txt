@@ -1,0 +1,16 @@
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\obj\Debug\MainWindow.g.cs
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\obj\Debug\App.g.cs
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors_MarkupCompile.cache
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors_MarkupCompile.lref
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\obj\Debug\MainWindow.baml
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.g.resources
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.Properties.Resources.resources
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.GenerateResource.cache
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Проекты\С#\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.AssemblyReference.cache
